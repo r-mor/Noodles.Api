@@ -1,0 +1,9 @@
+[submodule "Noodles.BusinessLogic"]
+	path = Noodles.BusinessLogic
+	url = git@github.com:r-mor/Noodles.BusinessLogic.git
+[submodule "Noodles.Core"]
+	path = Noodles.Core
+	url = git@github.com:r-mor/Noodles.Core.git
+[submodule "Noodles.DataAccess"]
+	path = Noodles.DataAccess
+	url = git@github.com:r-mor/Noodles.DataAccess.git
